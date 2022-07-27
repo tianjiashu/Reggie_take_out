@@ -1,0 +1,5 @@
+#mv gitignore.txt .gitignore
+
+*.iml
+target
+.idea
